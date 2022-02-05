@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Shahid
+Hi there 👋 I'm Shahid
 
 I am Shahid Ibrahim, a fresher at VIT, Vellore, majoring in Computer Science.
 
@@ -26,6 +26,6 @@ I am Shahid Ibrahim, a fresher at VIT, Vellore, majoring in Computer Science.
 </div>
 
 <div align="center">
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid-03&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid-03&theme=tokyonight)
 
 </div>
