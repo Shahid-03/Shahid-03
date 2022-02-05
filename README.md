@@ -22,7 +22,8 @@ I am Shahid Ibrahim, a fresher at VIT, Vellore, majoring in Computer Science.
 
 <h2 align="center">My Github Stats</h2>
 <div align="center">
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shahid-03&show_icons=true&theme=tokyonight)
+ 
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=Shahid-03&layout=compact&hide_border=true&show_icons=true&title_color=fca311&icon_color=38b6ff&text_color=ffffff&bg_color=000000&hide=[%22stars%22]&count_private=true)
 </div>
 
 <div align="center">
