@@ -27,6 +27,7 @@ I am Shahid Ibrahim, a fresher at VIT, Vellore, majoring in Computer Science.
 </div>
 
 <div align="center">
+ 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid-03&layout=compact&hide_border=true&show_icons=true&title_color=fca311&icon_color=38b6ff&text_color=ffffff&bg_color=000000&hide=[%22stars%22])
 
 </div>
