@@ -10,11 +10,9 @@ I am Shahid Ibrahim, a fresher at VIT, Vellore, majoring in Computer Science.
 
 
 
-<h1 align="center">Languages and Tools 🛠️</h1>
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+<h1 align="center">Languages and Tools 🛠️</h1> 
  <br>
 
-
-
-
+<h2 align="center">My Github Stats</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=Shahid-03&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
