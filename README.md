@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Shahid
 
+I am Shahid Ibrahim, a fresher at VIT, Vellore, majoring in Computer Science.
 <!--
 **Shahid-03/Shahid-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
