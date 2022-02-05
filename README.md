@@ -14,5 +14,5 @@ I am Shahid Ibrahim, a fresher at VIT, Vellore, majoring in Computer Science.
  <br>
 
 <h2 align="center">My Github Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=Shahid-03&show_icons=true&theme=tokyonight)" align="middle">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid-03&theme=tokyonight)">
+<img align="middle" src="https://github-readme-stats.vercel.app/api?username=Shahid-03&show_icons=true&theme=tokyonight)">
+<img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid-03&theme=tokyonight)">
