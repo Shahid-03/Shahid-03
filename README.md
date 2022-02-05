@@ -3,17 +3,16 @@
 </div>
 
 </br>
-<p align="center">
-    <code> 
-        I am Shahid Ibrahim, a fresher at VIT, Vellore, majoring in Computer Science.
-    </code>
-</p>
+<p align="center">I am Shahid Ibrahim, a fresher at VIT, Vellore, majoring in Computer Science.</p>
 
 <h2 align="center">
     Some more stuff 💻
 </h2>
+
 - 🔭 I’m currently working on learning UI/UX and CSS
+
 - 🌱 I’m currently learning Web Development and Web Design
+
 - ⚡ 2022 Goals: Learn Flutter
 
 
