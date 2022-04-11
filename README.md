@@ -9,9 +9,9 @@
     Some more stuff 💻
 </h2>
 
-- 🔭 I’m currently working on learning UI/UX and CSS
+- 🔭 I’m currently working on learning C and C++
 
-- 🌱 I’m currently learning Web Development and Web Design
+- 🌱 I’m currently learning C++
 
 - ⚡ 2022 Goals: Learn Flutter
 
