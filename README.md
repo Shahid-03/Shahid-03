@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning C++
 
-- ⚡ 2022 Goals: Learn Flutter
+
 
 
 
