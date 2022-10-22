@@ -3,7 +3,7 @@
 </div>
 
 </br>
-<p>I am Shahid Ibrahim, a fresher at VIT, Vellore, majoring in Computer Science.</p>
+<p>I am Shahid Ibrahim, a second year student at VIT, Vellore, majoring in Computer Science.</p>
 
 <h2 align="center">
     Some more stuff 💻
