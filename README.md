@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on learning C and C++
 
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning Javascript
 
 
 
